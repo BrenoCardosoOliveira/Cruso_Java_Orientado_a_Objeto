@@ -1,6 +1,6 @@
-#Exercícios – Estrutura Sequencial
+# Exercícios – Estrutura Sequencial
 
-Exercício 01
+## Exercício 01
 
 Descrição:
 Faça um programa para ler dois valores inteiros e mostrar a soma deles com uma mensagem explicativa.
@@ -20,7 +20,7 @@ SOMA = -20
 0
 SOMA = 0
 ````
-Exercício 02
+## Exercício 02
 
 Descrição:
 Ler o valor do raio de um círculo e mostrar a área com quatro casas decimais.
@@ -48,7 +48,7 @@ Entrada:
 Saída:
 A=70685.7750
 ````
-Exercício 03
+## Exercício 03
 
 Descrição:
 Ler quatro valores inteiros A, B, C e D. Calcular e mostrar:
@@ -75,7 +75,7 @@ Entrada:
 Saída:
 DIFERENCA = 86
 ````
-Exercício 04
+## Exercício 04
 
 Descrição:
 Ler o número de um funcionário, número de horas trabalhadas e valor por hora.
@@ -112,7 +112,7 @@ Saída:
 NUMBER = 6
 SALARY = U$ 2254.75
 ````
-Exercício 05
+## Exercício 05
 
 Descrição:
 Ler código, quantidade e valor unitário de duas peças.
@@ -143,7 +143,7 @@ Entrada:
 Saída:
 VALOR A PAGAR: R$ 30.20
 ````
-Exercício 06
+## Exercício 06
 
 Descrição:
 Ler valores A, B e C (double) e calcular:
